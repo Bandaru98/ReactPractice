@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "G:/My Drive/todaytests"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "todaytests"
+	}
+}

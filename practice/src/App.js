@@ -14,6 +14,14 @@ import CompAA from './ExUseContext/CompAA';
 import Routing from './ExScrollTop&Popmsg/Routing/Routing'
 import Scroll from './ExScrollTop&Popmsg/Scroll';
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css'
+import ExClasscomp from './ExStateinClassComp/ExClasscomp';
+import ExStateInClass from './ExStateinClassComp/ExStateInClass';
+import ExKeysList from './ExKeys&List/ExKeysList';
+import ExForm from './ExForm/ExForm';
+import ExForm1 from './ExForm/ExForm1';
+import Exforms from './ExForm/Exforms';
+
+
 function App() {
   let obj = {
     name: 'xyz',
@@ -35,12 +43,28 @@ function App() {
       <ExUseReducer2 />
       <ExUseRef /> */}
 
-        {/* ExScrollTop&Popmsg---folder---------- */}
-        {/* <Comp />
+      {/* ExScrollTop&Popmsg---folder---------- */}
+      {/* <Comp />
       <Navbar />
       <Routing />
       <Scroll /> */}
       {/* ---------- */}
+
+      {/* Ex State in class Components---------- */}
+      {/* <ExClasscomp str='ReactJS' obj={obj} arr={nums} /> */}
+      {/* <ExStateInClass /> */}
+
+      {/* Exkeys and lists------- */}
+      {/* <ExKeysList/> */}
+
+      {/* ExForms-------- */}
+      {/* <ExForm /> */}
+      {/* <ExForm1/> */}
+      {/* <Exforms/> */}
+
+
+
+
 
     </div>
   );

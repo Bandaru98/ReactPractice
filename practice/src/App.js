@@ -20,6 +20,12 @@ import ExKeysList from './ExKeys&List/ExKeysList';
 import ExForm from './ExForm/ExForm';
 import ExForm1 from './ExForm/ExForm1';
 import Exforms from './ExForm/Exforms';
+import ExStatewoutConstructor from './ExStatewoutConst/ExStatewoutConstructor';
+import Exstateconst from './ExStatewoutConst/Exstateconst';
+import ExStateimg from './ExStateinClassComp/ExStateimg';
+import ExStateinterval from './ExStateinClassComp/ExStateinterval';
+import Exstatelist from './ExStateinClassComp/Exstatelist';
+
 
 
 function App() {
@@ -53,6 +59,8 @@ function App() {
       {/* Ex State in class Components---------- */}
       {/* <ExClasscomp str='ReactJS' obj={obj} arr={nums} /> */}
       {/* <ExStateInClass /> */}
+      {/* <ExStateimg /> */}
+      {/* <ExStateinterval/> */}
 
       {/* Exkeys and lists------- */}
       {/* <ExKeysList/> */}
@@ -63,6 +71,9 @@ function App() {
       {/* <Exforms/> */}
 
 
+      {/* ExStatewithout constructor--------- */}
+      {/* <ExStatewoutConstructor /> */}
+      {/* <Exstateconst /> */}
 
 
 

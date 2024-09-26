@@ -26,8 +26,6 @@ export default Popup
 
 
 
-
-
 // 2nd method-----------
 
 

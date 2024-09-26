@@ -7,8 +7,6 @@ const ExUseState = () => {
     // const [state, setState] = useState('')
     const [state1, setState1] = useState(0)
 
-
-
     // function fruit(fvalue) {
     //     setState(fvalue)
     // }

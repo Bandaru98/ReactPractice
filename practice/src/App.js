@@ -25,6 +25,7 @@ import Exstateconst from './ExStatewoutConst/Exstateconst';
 import ExStateimg from './ExStateinClassComp/ExStateimg';
 import ExStateinterval from './ExStateinClassComp/ExStateinterval';
 import Exstatelist from './ExStateinClassComp/Exstatelist';
+import Ex from './Ex/Ex';
 
 
 
@@ -76,6 +77,9 @@ function App() {
       {/* <Exstateconst /> */}
 
 
+
+
+<Ex/>
 
     </div>
   );

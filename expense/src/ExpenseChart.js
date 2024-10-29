@@ -9,7 +9,6 @@ const ExpenseChart = ({ expenses }) => {
   };
 
   const categoryData = getExpenseByCategory();
-
   return (
     <div>
       <h2>Expense Summary by Category</h2>
